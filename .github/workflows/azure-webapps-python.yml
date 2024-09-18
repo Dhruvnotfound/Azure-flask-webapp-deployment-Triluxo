@@ -6,7 +6,7 @@ on:
       - main  
 
 env:
-  AZURE_WEBAPP_NAME: your-app-name-here  # Replace with your app name
+  AZURE_WEBAPP_NAME: flask-app  # Replace with your app name
 
 jobs:
   build-and-deploy:
