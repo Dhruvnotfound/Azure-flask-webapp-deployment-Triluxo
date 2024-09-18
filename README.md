@@ -49,7 +49,7 @@ The application consists of a single endpoint that returns "Hello, Azure Web App
 
 5. Update the GitHub Actions workflow:
    - Open `.github/workflows/azure-webapps-python.yml`
-   - Replace `your-app-name-here` with your actual Azure Web App name
+   - Replace `flask-app` with your actual Azure Web App name
 
 6. Commit and push your changes:
    - This will trigger the GitHub Actions workflow and deploy your application
